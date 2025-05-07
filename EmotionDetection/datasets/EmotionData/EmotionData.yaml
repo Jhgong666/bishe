@@ -1,0 +1,14 @@
+path: D:/python/xuesheng/EmotionDetection/datasets/EmotionData
+train: train/images/
+val: val/images/
+test: test/images/
+nc: 8
+names:
+- dx
+- dk
+- tt
+- zt
+- js
+- zl
+- xt
+- jz

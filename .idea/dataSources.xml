@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="UserDatabase" uuid="dfe3d368-55a4-4da0-a8eb-754afe29bbff">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\learning files\bishe\EmotionDetection\UserDatabase.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
